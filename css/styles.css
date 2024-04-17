@@ -1,0 +1,18 @@
+/* */
+
+ul {
+    list-style-type: none;
+}
+a {
+    text-decoration: none;
+}
+button {
+    cursor: pointer;
+}
+
+.title {
+    color: #fff;
+}
+.title-hero {
+    background: #2e2f42;
+}
