@@ -56,6 +56,9 @@ color: #404bbf;
 .contact-item:focus {
 color: #404bbf;
 }
+.title-hero {
+    background: #2e2f42;
+}
 .title {
 font-family: "Roboto", sans-serif;
 font-weight: 700;
@@ -65,21 +68,16 @@ letter-spacing: 0.02em;
 text-align: center;
 color: #fff;
 }
-.title-hero {
-    background: #2e2f42;
-}
 .button {
 font-family: "Roboto", sans-serif;
 font-weight: 500;
 font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.04em;
-color: #fff;
-
+color: #ffffff;
 }
-button {
-box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
-background: #4d5ae5;
+.button:hover, .button:focus {
+background-color: #404bbf; 
 }
 .title-benefits  {
 font-family: "Roboto", sans-serif;
@@ -97,6 +95,9 @@ line-height: 1.5;
 letter-spacing: 0.02em;
 color: #434455;
 }
+.our-team-page {
+background-color: #f4f4fd;
+}
 .title-team {
 font-family: "Roboto", sans-serif;
 font-weight: 700;
@@ -104,6 +105,7 @@ font-size: 36px;
 line-height: 1.11;
 letter-spacing: 0.02em;
 text-align: center;
+text-transform: capitalize;
 color: #2e2f42;
 }
 .title-avatar {
@@ -131,6 +133,7 @@ font-size: 36px;
 line-height: 1.11;
 letter-spacing: 0.02em;
 text-align: center;
+text-transform: capitalize;
 color: #2e2f42;
 }
 .title-images {
@@ -151,6 +154,9 @@ color: #434455;
 }
 .footer-box {
 background: #2e2f42;
+}
+.logo-word-footer {
+color: #f4f4fd;
 }
 .text-footer {
 font-family: "Roboto", sans-serif;
