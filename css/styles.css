@@ -42,6 +42,9 @@ font-style: normal;
 .link {
 color: inherit;
 }
+.link:focus {
+color: #404bbf;
+}
 .contact-item {
 font-family: "Roboto", sans-serif;
 font-weight: 400;
@@ -76,7 +79,10 @@ line-height: 1.5;
 letter-spacing: 0.04em;
 color: #ffffff;
 }
-.button:hover, .button:focus {
+.button:hover {
+background-color: #404bbf; 
+}
+.button:focus {
 background-color: #404bbf; 
 }
 .title-benefits  {
