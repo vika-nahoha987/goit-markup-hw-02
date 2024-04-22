@@ -42,9 +42,6 @@ font-style: normal;
 .link {
 color: inherit;
 }
-.link:focus {
-color: #404bbf;
-}
 .contact-item {
 font-family: "Roboto", sans-serif;
 font-weight: 400;
