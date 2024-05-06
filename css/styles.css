@@ -25,7 +25,6 @@ color: #4d5ae5;
 color: #2e2f42;
 }
 .menu-item {
-font-family: "Roboto", sans-serif;
 font-weight: 500;
 font-size: 16px;
 line-height: 1.5;
@@ -47,7 +46,6 @@ color: #404bbf;
 color: inherit;
 }
 .contact-item {
-font-family: "Roboto", sans-serif;
 font-weight: 400;
 font-size: 16px;
 line-height: 1.5;
@@ -63,7 +61,6 @@ color: #404bbf;
 background: #2e2f42;
 }
 .title {
-font-family: "Roboto", sans-serif;
 font-weight: 700;
 font-size: 56px;
 line-height: 1.07;
@@ -72,7 +69,6 @@ text-align: center;
 color: #fff;
 }
 .button-service {
-font-family: "Roboto", sans-serif;
 font-weight: 500;
 font-size: 16px;
 line-height: 1.5;
@@ -86,7 +82,6 @@ background-color: #404bbf;
 }
 
 .title-benefits  {
-font-family: "Roboto", sans-serif;
 font-weight: 500;
 font-size: 20px;
 line-height: 1.2;
@@ -94,7 +89,6 @@ letter-spacing: 0.02em;
 color: #2e2f42;
 }
 .text-benefits {
-font-family: "Roboto", sans-serif;
 font-weight: 400;
 font-size: 16px;
 line-height: 1.5;
@@ -105,7 +99,6 @@ color: #434455;
 background-color: #f4f4fd;
 }
 .title-team {
-font-family: "Roboto", sans-serif;
 font-weight: 700;
 font-size: 36px;
 line-height: 1.11;
@@ -118,7 +111,6 @@ color: #2e2f42;
 background-color: #FFFFFF;
 }
 .title-avatar {
-font-family: "Roboto", sans-serif;
 font-weight: 500;
 font-size: 20px;
 line-height: 1.2;
@@ -127,7 +119,6 @@ text-align: center;
 color: #2e2f42;
 }
 .text-avatar {
-font-family: "Roboto", sans-serif;
 font-weight: 400;
 font-size: 16px;
 line-height: 1.5;
@@ -136,7 +127,6 @@ text-align: center;
 color: #434455;
 }
 .title-portfolio {
-font-family: "Roboto", sans-serif;
 font-weight: 700;
 font-size: 36px;
 line-height: 1.11;
@@ -146,7 +136,6 @@ text-transform: capitalize;
 color: #2e2f42;
 }
 .title-images {
-font-family: "Roboto", sans-serif;
 font-weight: 500;
 font-size: 20px;
 line-height: 1.2;
@@ -154,7 +143,6 @@ letter-spacing: 0.02em;
 color: #2e2f42;
 }
 .text-images {
-font-family: "Roboto", sans-serif;
 font-weight: 400;
 font-size: 16px;
 line-height: 1.5;
@@ -168,7 +156,6 @@ background: #2e2f42;
 color: #f4f4fd;
 }
 .text-footer {
-font-family: "Roboto", sans-serif;
 font-weight: 400;
 font-size: 16px;
 line-height: 1.5;
